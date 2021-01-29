@@ -1,3 +1,5 @@
-Form{
-    width: 300px;
+.book{
+    width: 600px;
+    background-color: aqua;
+    text-align: center;
 }
